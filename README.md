@@ -17,10 +17,12 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [arm32v6/ruby:alpine3.6](https://hub.docker.com/r/arm32v6/ruby/)
 - [arm32v6/tomcat:alpine](https://hub.docker.com/r/arm32v6/tomcat/)
 - [arm32v6/traefik:latest](https://hub.docker.com/r/arm32v6/traefik/)
+- [arm32v7/debian:lates](https://hub.docker.com/r/arm32v7/debian/)
 
 #### Docker Image Repositories
 - [Docker Hub: arm32v6](https://hub.docker.com/u/arm32v6/)
 - [Docker Hub: armv7](https://hub.docker.com/u/armv7/)
+- [Github: Luvres Armhf](https://github.com/luvres/armhf)
 
 #### Docker Storage
 - [Flocker](https://flocker.readthedocs.io/en/latest/flocker-features/storage-backends.html#supported-backends)
