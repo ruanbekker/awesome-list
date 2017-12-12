@@ -19,6 +19,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [arm32v6/traefik:latest](https://hub.docker.com/r/arm32v6/traefik/)
 - [arm32v7/debian:lates](https://hub.docker.com/r/arm32v7/debian/)
 - [jixer/rpi-mongo](https://github.com/jixer/rpi-mongo)
+- [alexellis/armhf](https://github.com/alexellis/docker-arm/tree/master/images/armhf)
 
 #### Docker Image Repositories
 - [Docker Hub: arm32v6](https://hub.docker.com/u/arm32v6/)
