@@ -43,3 +43,13 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Continious Integration:
 
 - [LambCI](https://github.com/lambci/lambci)
+
+## Programming
+
+#### Ruby:
+- [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
+- [Install Ruby Environment on Mac](https://gorails.com/setup/osx/10.12-sierra)
+
+#### Ruby on Rails:
+- [Tutorial: Ruby On Rails](https://www.railstutorial.org/book/beginning)
+- [Tutorial: ROR on Docker](http://codingnudge.com/2017/03/17/tutorial-how-to-run-ruby-on-rails-on-docker-part-1/)
