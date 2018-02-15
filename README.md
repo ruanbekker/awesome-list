@@ -29,8 +29,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Github: Luvres Armhf](https://github.com/luvres/armhf)
 - [Apache/PHP7 on Alpine](https://github.com/ulsmith/alpine-apache-php7)
 
-#### Whoami / Demo 
-- [emilevauge/whoami](https://hub.docker.com/r/emilevauge/whoami/)
+#### Examples:
+- [Whoami used in Traefik Docs](https://hub.docker.com/r/emilevauge/whoami/)
+- [Rails with Postgres and Redis](https://github.com/mookjp/rails-docker-example)
 
 #### Docker Storage
 - [Rancher Convoy](https://github.com/rancher/convoy)
