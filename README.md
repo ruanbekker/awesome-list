@@ -31,6 +31,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Examples:
 - [Whoami used in Traefik Docs](https://hub.docker.com/r/emilevauge/whoami/)
+- [Sqlite with Docker](https://github.com/spartakode/my-docker-repos/blob/master/sqlite3/Dockerfile)
 - [Rails with Postgres and Redis](https://github.com/mookjp/rails-docker-example)
 
 #### Docker Storage
