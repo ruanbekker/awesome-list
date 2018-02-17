@@ -18,6 +18,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [arm32v6/tomcat:alpine](https://hub.docker.com/r/arm32v6/tomcat/)
 - [arm32v6/traefik:latest](https://hub.docker.com/r/arm32v6/traefik/)
 - [arm32v7/debian:lates](https://hub.docker.com/r/arm32v7/debian/)
+- [hypriot/rpi-redis](https://hub.docker.com/r/hypriot/rpi-redis/)
 - [jixer/rpi-mongo](https://github.com/jixer/rpi-mongo)
 - [alexellis/armhf](https://github.com/alexellis/docker-arm/tree/master/images/armhf)
 - [zeiot: rpi-prometheus stack](https://github.com/zeiot)
