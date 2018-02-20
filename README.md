@@ -47,6 +47,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 - [LambCI](https://github.com/lambci/lambci)
 
+## Environment Setups:
+- [Golang](https://medium.com/aishik/install-golang-the-right-way-4743fee9255f)
+
 ## Linuxkit:
 
 - [Getting Started with Linuxkit](https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321)
