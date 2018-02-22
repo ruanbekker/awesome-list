@@ -43,6 +43,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### OpenFaas:
 - [FaaS Releases](https://github.com/openfaas/faas/releases)
 
+#### Prometheus / Grafana on Swarm:
+- [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
+
 ## Continious Integration:
 
 - [LambCI](https://github.com/lambci/lambci)
