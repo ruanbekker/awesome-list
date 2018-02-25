@@ -1,6 +1,7 @@
 # awesome-list
 My Awesome List of anything cool that my curious mind finds interesting
 
+- [CI](#continious-integration)
 - [Docker](#docker)
 - [Elasticsearch](#elasticsearch)
 
@@ -50,7 +51,14 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
 
 ## Continious Integration:
+#### Travis-CI
+- [Getting Started with Travis-CI (Original Docs)](https://docs.travis-ci.com/user/getting-started/)
+- [Getting Started with Travis-CI (dwyl - nodejs)](https://github.com/dwyl/learn-travis)
+- [Blog Site with Travis-CI (Python)](https://matthewmoisen.com/blog/how-to-set-up-travis-ci-with-github-for-a-python-project/)
+- [Build Tests with Python on Travis-CI](https://github.com/softwaresaved/build_and_test_examples/blob/master/travis/HelloWorld.md)
+- [Moving app with Travis-CI](https://www.raywenderlich.com/109418/travis-ci-tutorial)
 
+#### LambCI
 - [LambCI](https://github.com/lambci/lambci)
 
 ## Elasticsearch
