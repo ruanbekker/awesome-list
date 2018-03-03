@@ -54,8 +54,15 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Continious Integration:
 
+#### Circle-CI
+- [PHP with Circle-CI](https://circleci.com/docs/1.0/language-php/)
+
 #### Concourse
 - [Setup Concourse Environment with Docker](https://concourse.ci/docker-repository.html)
+
+#### Jenkins
+- [Modess - PHP with Jenkins](https://modess.io/jenkins-php/)
+- [CI/CD Nodejs Tutorial with Jenkins](https://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
 
 #### Travis-CI
 - [Getting Started with Travis-CI (Original Docs)](https://docs.travis-ci.com/user/getting-started/)
