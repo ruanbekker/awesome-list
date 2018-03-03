@@ -2,7 +2,7 @@
 
 My Awesome List of anything cool that my curious mind finds interesting
 
-- [CI](#continious-integration)
+- [CI/CD](#continious-integration)
 - [Docker](#docker)
 - [Elasticsearch](#elasticsearch)
 - [Programming](#programming)
