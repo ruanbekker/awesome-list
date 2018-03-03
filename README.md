@@ -36,10 +36,12 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Github: Luvres Armhf](https://github.com/luvres/armhf)
 - [Apache/PHP7 on Alpine](https://github.com/ulsmith/alpine-apache-php7)
 
-#### Examples:
+#### Blogs:
 - [Whoami used in Traefik Docs](https://hub.docker.com/r/emilevauge/whoami/)
 - [Sqlite with Docker](https://github.com/spartakode/my-docker-repos/blob/master/sqlite3/Dockerfile)
 - [Rails with Postgres and Redis](https://github.com/mookjp/rails-docker-example)
+- [Async Tasks with Flask and Redis](https://testdriven.io/asynchronous-tasks-with-flask-and-redis-queue)
+- [Flask and Postgres](https://github.com/davidmukiibi/docker-flask)
 
 #### Docker Storage
 - [Rancher Convoy](https://github.com/rancher/convoy)
