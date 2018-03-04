@@ -88,6 +88,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## MongoDB:
 - [Setup MongoDB Cluster](https://linode.com/docs/databases/mongodb/build-database-clusters-with-mongodb/)
+- [MongoDB Scripts](https://github.com/AD7six/mongo-scripts)
 
 ## Programming
 
