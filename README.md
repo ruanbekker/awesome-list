@@ -92,6 +92,10 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Programming
 
+#### Golang:
+- [Golang Tutorials](http://golangtutorials.blogspot.co.za/2011/05/table-of-contents.html)
+- [Golang Wiki](https://github.com/golang/go/wiki)
+
 #### Ruby:
 - [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
 - [Install Ruby Environment on Mac](https://gorails.com/setup/osx/10.12-sierra)
