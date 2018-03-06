@@ -78,6 +78,12 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Elasticsearch
 
+#### Elasticsearch Documentation
+- [General Recommendation](https://www.elastic.co/guide/en/elasticsearch/reference/current/general-recommendations.html)
+- [How Many Shards in my Cluster](https://www.elastic.co/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
+- [Managing Time-Based Indices Efficiently](https://www.elastic.co/blog/managing-time-based-indices-efficiently)
+
+#### Elasticsearch Tools
 - [Export Data from ES to ES](https://github.com/mallocator/Elasticsearch-Exporter)
 
 ## Environment Setups:
