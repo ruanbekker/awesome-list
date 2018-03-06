@@ -83,6 +83,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [How Many Shards in my Cluster](https://www.elastic.co/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
 - [Managing Time-Based Indices Efficiently](https://www.elastic.co/blog/managing-time-based-indices-efficiently)
 
+#### Elasticsearch Blogs
+- [Maximize Elasticsearch Indexing Performance](https://qbox.io/blog/maximize-guide-elasticsearch-indexing-performance-part-1)
+
 #### Elasticsearch Tools
 - [Export Data from ES to ES](https://github.com/mallocator/Elasticsearch-Exporter)
 
