@@ -42,6 +42,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Rails with Postgres and Redis](https://github.com/mookjp/rails-docker-example)
 - [Async Tasks with Flask and Redis](https://testdriven.io/asynchronous-tasks-with-flask-and-redis-queue)
 - [Flask and Postgres](https://github.com/davidmukiibi/docker-flask)
+- [Elastic Beats on RaspberryPi](http://ict.renevdmark.nl/2016/07/05/elastic-beats-on-raspberry-pi/)
 
 #### Docker Storage
 - [Rancher Convoy](https://github.com/rancher/convoy)
