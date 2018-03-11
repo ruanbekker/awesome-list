@@ -86,6 +86,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [General Recommendation](https://www.elastic.co/guide/en/elasticsearch/reference/current/general-recommendations.html)
 - [How Many Shards in my Cluster](https://www.elastic.co/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
 - [Managing Time-Based Indices Efficiently](https://www.elastic.co/blog/managing-time-based-indices-efficiently)
+- [Elasticsearch Best Practices (Bonsai.io)](https://bonsai.io/2016/01/11/ideal-elasticsearch-cluster)
 
 #### Elasticsearch Blogs
 - [Maximize Elasticsearch Indexing Performance](https://qbox.io/blog/maximize-guide-elasticsearch-indexing-performance-part-1)
