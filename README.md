@@ -88,6 +88,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Managing Time-Based Indices Efficiently](https://www.elastic.co/blog/managing-time-based-indices-efficiently)
 - [Elasticsearch Best Practices (Bonsai.io)](https://bonsai.io/2016/01/11/ideal-elasticsearch-cluster)
 
+#### Elasticsearch Cheetsheets:
+- [My ES Cheatsheet](https://gist.github.com/ruanbekker/e8a09604b14f37e8d2f743a87b930f93)
+
 #### Elasticsearch Blogs
 - [Maximize Elasticsearch Indexing Performance](https://qbox.io/blog/maximize-guide-elasticsearch-indexing-performance-part-1)
 
@@ -117,3 +120,6 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Ruby on Rails:
 - [Tutorial: Ruby On Rails](https://www.railstutorial.org/book/beginning)
 - [Tutorial: ROR on Docker](http://codingnudge.com/2017/03/17/tutorial-how-to-run-ruby-on-rails-on-docker-part-1/)
+
+## Sysadmin References:
+- [Sysadmin Command References](https://gist.github.com/ruanbekker/3118ed23c25451132becacd3b974db08)
