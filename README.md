@@ -39,6 +39,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Github: Luvres Armhf](https://github.com/luvres/armhf)
 - [Apache/PHP7 on Alpine](https://github.com/ulsmith/alpine-apache-php7)
 
+#### Docker-Awesome-Lists
+- [Java Docker Services](https://github.com/AdamBien/docklands)
+
 #### Blogs:
 - [Whoami used in Traefik Docs](https://hub.docker.com/r/emilevauge/whoami/)
 - [Sqlite with Docker](https://github.com/spartakode/my-docker-repos/blob/master/sqlite3/Dockerfile)
