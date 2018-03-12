@@ -83,6 +83,12 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### LambCI
 - [LambCI](https://github.com/lambci/lambci)
 
+## DynamoDB
+
+#### Docs
+
+- [AWS DynamoDB: SQL to NoSQL](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.ReadData.Query.html)
+
 ## Elasticsearch
 
 #### Elasticsearch Documentation
