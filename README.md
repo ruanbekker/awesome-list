@@ -38,6 +38,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Docker Hub: armv7](https://hub.docker.com/u/armv7/)
 - [Github: Luvres Armhf](https://github.com/luvres/armhf)
 - [Apache/PHP7 on Alpine](https://github.com/ulsmith/alpine-apache-php7)
+- [Tomcat on Alpine](https://github.com/docker-library/tomcat/blob/master/8.0/jre8-alpine/Dockerfile)
 
 #### Docker-Awesome-Lists
 - [Java Docker Services](https://github.com/AdamBien/docklands)
