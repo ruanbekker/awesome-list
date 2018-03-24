@@ -6,6 +6,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Docker](#docker)
 - [Elasticsearch](#elasticsearch)
 - [Programming](#programming)
+  - [Java](#java)
 
 ## Awesome Lists
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -123,6 +124,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Golang:
 - [Golang Tutorials](http://golangtutorials.blogspot.co.za/2011/05/table-of-contents.html)
 - [Golang Wiki](https://github.com/golang/go/wiki)
+
+#### Java:
+- [Java Spring Boot Examples](https://wiki.ruanbekker.com/index.php/Java_Spring_Boot_App_Examples)
 
 #### Ruby:
 - [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
