@@ -129,6 +129,11 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Java:
 - [Java Spring Boot Examples](https://wiki.ruanbekker.com/index.php/Java_Spring_Boot_App_Examples)
 
+#### Python
+
+#### Python Flask:
+- [Python Flask Upload Example](https://gist.github.com/dAnjou/2874714)
+
 #### Ruby:
 - [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
 - [Install Ruby Environment on Mac](https://gorails.com/setup/osx/10.12-sierra)
