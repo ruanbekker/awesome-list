@@ -148,3 +148,8 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Sysadmin References:
 - [Sysadmin Command References](https://gist.github.com/ruanbekker/3118ed23c25451132becacd3b974db08)
+
+## VPN:
+#### VPN-Howto:
+- [Ubuntu OpenVPN Script](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
+- [DO - Setup OpenVPN on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
