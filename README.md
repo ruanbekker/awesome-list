@@ -154,3 +154,4 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Ubuntu OpenVPN Script](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
 - [Ubuntu IPSec Script](https://github.com/hwdsl2/setup-ipsec-vpn)
 - [DO - Setup OpenVPN on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
+- [Elasticshosts - IPSec VPN](https://www.elastichosts.com/blog/linux-l2tpipsec-vpn-client/)
