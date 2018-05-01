@@ -65,6 +65,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Prometheus / Grafana on Swarm:
 - [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
+- [Monitoring with Prometheus](https://medium.com/@soumyadipde/monitoring-in-docker-stacks-its-that-easy-with-prometheus-5d71c1042443)
 
 ## Continious Integration:
 
