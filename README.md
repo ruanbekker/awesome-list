@@ -121,6 +121,11 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Linuxkit:
 - [Getting Started with Linuxkit](https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321)
 
+## Metrics:
+- [AppMetrics with Flask](https://github.com/avalente/appmetrics)
+- [Scales: Metrics for Python](https://github.com/Cue/scales)
+- [Graphite: Python Flask Metrics](https://pypi.org/project/graphite-pymetrics/)
+
 ## MongoDB:
 - [Setup MongoDB Cluster](https://linode.com/docs/databases/mongodb/build-database-clusters-with-mongodb/)
 - [MongoDB Scripts](https://github.com/AD7six/mongo-scripts)
