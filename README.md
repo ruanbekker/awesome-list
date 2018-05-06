@@ -138,6 +138,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Python Flask:
 - [Python Flask Upload Example](https://gist.github.com/dAnjou/2874714)
+- [Awesome Flask - humiaozuzu](https://github.com/humiaozuzu/awesome-flask#awesome-flask)
 
 #### Ruby:
 - [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
