@@ -7,6 +7,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Concourse](#concourse)
   - [Jenkins](#jenkins)
 - [Docker](#docker)
+- [DynamoDB](#dynamodb)
 - [Elasticsearch](#elasticsearch)
 - [Programming](#programming)
   - [Java](#java)
@@ -46,6 +47,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Docker-Awesome-Lists
 - [Java Docker Services](https://github.com/AdamBien/docklands)
+- [shouse Docker Awesome List](https://gist.github.com/shouse/a14c44e97a2cd2a1f030)
 
 #### Blogs:
 - [Whoami used in Traefik Docs](https://hub.docker.com/r/emilevauge/whoami/)
