@@ -95,9 +95,18 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## DynamoDB
 
-#### Docs
+#### DynamoDB Docs
 
 - [AWS DynamoDB: SQL to NoSQL](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.ReadData.Query.html)
+
+#### DynamoDB Best Practices
+
+- [Choosing the Right Partition Key](https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/)
+- [10 Things you should know](https://cloudacademy.com/blog/amazon-dynamodb-ten-things/)
+
+#### DynamoDB General Info
+
+- [Understanding DynamoDB](https://medium.com/@yaofei/understand-dynamodb-b278f718ddb8)
 
 ## Elasticsearch
 
