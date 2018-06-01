@@ -11,6 +11,8 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Elasticsearch](#elasticsearch)
 - [Programming](#programming)
   - [Java](#java)
+- [Web Frameworks](#web-frameworks)
+  - [Python Flask](#python-flask)
 
 ## Awesome Lists
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -181,3 +183,4 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Python Flask Upload Example](https://gist.github.com/dAnjou/2874714)
 - [Awesome Flask - humiaozuzu](https://github.com/humiaozuzu/awesome-flask#awesome-flask)
 - [Flask over HTTPS (MG)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
+- [Flask Advanced Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1)
