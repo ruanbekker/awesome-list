@@ -129,6 +129,11 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Environment Setups:
 - [Golang](https://medium.com/aishik/install-golang-the-right-way-4743fee9255f)
 
+## Knowledge Base
+
+## KB HTTPS
+- [How does HTTPS work (Miguel Grinberg)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
+
 ## Linuxkit:
 - [Getting Started with Linuxkit](https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321)
 
@@ -152,10 +157,6 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Python
 
-#### Python Flask:
-- [Python Flask Upload Example](https://gist.github.com/dAnjou/2874714)
-- [Awesome Flask - humiaozuzu](https://github.com/humiaozuzu/awesome-flask#awesome-flask)
-
 #### Ruby:
 - [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
 - [Install Ruby Environment on Mac](https://gorails.com/setup/osx/10.12-sierra)
@@ -173,3 +174,10 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Ubuntu IPSec Script](https://github.com/hwdsl2/setup-ipsec-vpn)
 - [DO - Setup OpenVPN on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 - [Elasticshosts - IPSec VPN](https://www.elastichosts.com/blog/linux-l2tpipsec-vpn-client/)
+
+## Web Frameworks
+
+#### Python Flask:
+- [Python Flask Upload Example](https://gist.github.com/dAnjou/2874714)
+- [Awesome Flask - humiaozuzu](https://github.com/humiaozuzu/awesome-flask#awesome-flask)
+- [Flask over HTTPS (MG)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
