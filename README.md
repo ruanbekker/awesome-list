@@ -17,6 +17,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Awesome Lists
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 
+## Authentication
+- [Nginx ES and Kibana Proxy with LDAP](https://mapr.com/blog/how-secure-elasticsearch-and-kibana/)
+
 ## Docker
 
 #### RaspberryPi ARM Images:
