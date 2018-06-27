@@ -7,10 +7,31 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Concourse](#concourse)
   - [Jenkins](#jenkins)
 - [Docker](#docker)
+  - [RaspberryPi ARM Images](#raspberrypi-arm-images)
+  - [Docker Image Repositories](#docker-image-repositories)
+  - [Docker Awesome Lists](#docker-awesome-lists)
+  - [Docker Storage](#docker-storage)
+  - [OpenFaas](#openfaas)
 - [DynamoDB](#dynamodb)
+  - [DynamoDB Docs](#dynamodb-docs)
+  - [DynamoDB Best Practices](#dynamodb-best-practices)
+  - [DynamoDB General Info](#dynamodb-general-info)
 - [Elasticsearch](#elasticsearch)
+  - [Elasticsearch Documentation](#elasticsearch-documentation)
+  - [Elasticsearch Cheetsheets](#elasticsearch-cheetsheets)
+  - [Elasticsearch Blogs](#elasticsearch-blogs)
+  - [Elasticsearch Tools](#elasticsearch-tools)
+- [Environment Setups](#environment-setups)
+- [Knowledge Base](#knowledge-base)
+  - [How does HTTPS Work](#kb-https)
 - [Programming](#programming)
+  - [Golang](#golang)
   - [Java](#java)
+  - [Python](#python)
+  - [Ruby](#ruby)
+- [Sysadmin References](#sysadmin-references)
+- [VPN](#vpn)
+  - [VPN HowTo](#vpn-howto)
 - [Web Frameworks](#web-frameworks)
   - [Python Flask](#python-flask)
 
@@ -54,7 +75,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Java Docker Services](https://github.com/AdamBien/docklands)
 - [shouse Docker Awesome List](https://gist.github.com/shouse/a14c44e97a2cd2a1f030)
 
-#### Blogs:
+#### Docker Blogs:
 - [Whoami used in Traefik Docs](https://hub.docker.com/r/emilevauge/whoami/)
 - [Sqlite with Docker](https://github.com/spartakode/my-docker-repos/blob/master/sqlite3/Dockerfile)
 - [Rails with Postgres and Redis](https://github.com/mookjp/rails-docker-example)
@@ -182,6 +203,8 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Sysadmin Command References](https://gist.github.com/ruanbekker/3118ed23c25451132becacd3b974db08)
 - [Linux Performance Observability Tools](https://medium.com/@chrishantha/linux-performance-observability-tools-19ae2328f87f)
 - [Troubleshooting High IO Wait](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
+- [IO Monitoring in Linux](https://blog.pythian.com/basic-io-monitoring-on-linux/)
+- [IOStat and VMStat for Performance Monitoring](http://xiayubin.com/blog/2014/01/29/how-i-use-iostat-and-vmstat-for-performance-analysis/)
 
 ## VPN:
 #### VPN-Howto:
