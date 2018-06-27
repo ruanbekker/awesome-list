@@ -84,6 +84,13 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Setup Concourse Environment with Docker](https://concourse.ci/docker-repository.html)
 - [Getting Started with Concourse and Docker](https://blog.anynines.com/getting-started-with-concourse-ci-and-docker/)
 
+## Great Blogs
+
+- [Exratione.com](https://www.exratione.com/blog/)
+- [Joelabrahamsson.com](http://joelabrahamsson.com/elasticsearch-101/)
+- [Benjamin Cane](http://bencane.com/)
+- [Michael Herman](http://mherman.org/)
+
 #### Jenkins
 - [Modess - PHP with Jenkins](https://modess.io/jenkins-php/)
 - [CI/CD Nodejs Tutorial with Jenkins](https://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
@@ -173,6 +180,8 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Sysadmin References:
 - [Sysadmin Command References](https://gist.github.com/ruanbekker/3118ed23c25451132becacd3b974db08)
+- [Linux Performance Observability Tools](https://medium.com/@chrishantha/linux-performance-observability-tools-19ae2328f87f)
+- [Troubleshooting High IO Wait](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 
 ## VPN:
 #### VPN-Howto:
