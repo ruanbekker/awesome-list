@@ -70,6 +70,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Github: Luvres Armhf](https://github.com/luvres/armhf)
 - [Apache/PHP7 on Alpine](https://github.com/ulsmith/alpine-apache-php7)
 - [Tomcat on Alpine](https://github.com/docker-library/tomcat/blob/master/8.0/jre8-alpine/Dockerfile)
+- [Nginx (jwilder)](https://github.com/jwilder/nginx-proxy)
 
 #### Docker-Awesome-Lists
 - [Java Docker Services](https://github.com/AdamBien/docklands)
@@ -95,6 +96,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Prometheus / Grafana on Swarm:
 - [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
 - [Monitoring with Prometheus](https://medium.com/@soumyadipde/monitoring-in-docker-stacks-its-that-easy-with-prometheus-5d71c1042443)
+- [UschtWill - Prometheus Grafana Elastalert](https://github.com/uschtwill/docker_monitoring_logging_alerting)
 
 ## Continious Integration:
 
