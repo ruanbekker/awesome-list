@@ -163,6 +163,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Elasticsearch Blogs
 - [Maximize Elasticsearch Indexing Performance](https://qbox.io/blog/maximize-guide-elasticsearch-indexing-performance-part-1)
+- [Autoritative Guide to ES Performance Tuning](https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1)
 
 #### Elasticsearch Tools
 - [Export Data from ES to ES](https://github.com/mallocator/Elasticsearch-Exporter)
