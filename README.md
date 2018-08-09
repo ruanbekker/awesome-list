@@ -36,6 +36,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Python Flask](#python-flask)
 
 ## Awesome Lists
+- [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## Authentication
