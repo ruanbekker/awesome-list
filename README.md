@@ -24,8 +24,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Environment Setups](#environment-setups)
 - [Knowledge Base](#knowledge-base)
   - [How does HTTPS Work](#kb-https)
-- [MongoDB]
-  - [MongoDB Monitoring Tools](https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools)
+- [MongoDB](#mongodb)
+  - [MongoDB Monitoring Tools](#mongodb-monitoring-tools)
+  - [MongoDB Scripts](#mongodb-scripts)
 - [Programming](#programming)
   - [Golang](#golang)
   - [Java](#java)
@@ -191,6 +192,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## MongoDB:
 - [Setup MongoDB Cluster](https://linode.com/docs/databases/mongodb/build-database-clusters-with-mongodb/)
 - [MongoDB Scripts](https://github.com/AD7six/mongo-scripts)
+- [MongoDB Monitoring Tools](https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools)
 
 ## Programming
 
