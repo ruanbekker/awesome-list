@@ -207,7 +207,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Ruby:
 - [Tutorial: Learn Ruby the Hard Way](https://learnrubythehardway.org/book)
+- [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
 - [Install Ruby Environment on Mac](https://gorails.com/setup/osx/10.12-sierra)
+- [Ruby: Arrays](https://gistpages.com/posts/ruby_arrays_insert_append_length_index_remove)
 
 #### Ruby on Rails:
 - [Tutorial: Ruby On Rails](https://www.railstutorial.org/book/beginning)
