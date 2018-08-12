@@ -64,6 +64,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [alexellis/armhf](https://github.com/alexellis/docker-arm/tree/master/images/armhf)
 - [zeiot: rpi-prometheus stack](https://github.com/zeiot)
 - [larmog](https://hub.docker.com/u/larmog/)
+- [Rpi MongoDB](https://github.com/andresvidal/rpi3-mongodb3)
 
 #### Docker Image Repositories
 - [Docker Hub: arm32v6](https://hub.docker.com/u/arm32v6/)
