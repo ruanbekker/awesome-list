@@ -76,6 +76,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Apache/PHP7 on Alpine](https://github.com/ulsmith/alpine-apache-php7)
 - [Tomcat on Alpine](https://github.com/docker-library/tomcat/blob/master/8.0/jre8-alpine/Dockerfile)
 - [Nginx (jwilder)](https://github.com/jwilder/nginx-proxy)
+- [Alpine Images (smebberson)](https://github.com/smebberson/docker-alpine)
 
 #### Docker-Awesome-Lists
 - [Java Docker Services](https://github.com/AdamBien/docklands)
