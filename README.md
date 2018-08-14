@@ -68,6 +68,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [zeiot: rpi-prometheus stack](https://github.com/zeiot)
 - [larmog](https://hub.docker.com/u/larmog/)
 - [Rpi MongoDB](https://github.com/andresvidal/rpi3-mongodb3)
+- [ARM Swarm](https://github.com/armswarm)
 
 #### Docker Image Repositories
 - [Docker Hub: arm32v6](https://hub.docker.com/u/arm32v6/)
