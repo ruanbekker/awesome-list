@@ -229,6 +229,14 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [IO Monitoring in Linux](https://blog.pythian.com/basic-io-monitoring-on-linux/)
 - [IOStat and VMStat for Performance Monitoring](http://xiayubin.com/blog/2014/01/29/how-i-use-iostat-and-vmstat-for-performance-analysis/)
 
+## Self Hosting
+
+#### Financial
+- [SelfHosted Firefly](https://github.com/firefly-iii/firefly-iii)
+
+#### Self Hosting Frameworks:
+- [Sandstorm](https://sandstorm.io/)
+
 ## VPN:
 #### VPN-Howto:
 - [Ubuntu OpenVPN Script](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
