@@ -200,6 +200,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [MongoDB Scripts](https://github.com/AD7six/mongo-scripts)
 - [MongoDB Monitoring Tools](https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools)
 
+## Monitoring
+- [Memcached Monitoring](https://blog.serverdensity.com/monitor-memcached/)
+
 ## Programming
 
 #### Golang:
