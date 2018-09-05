@@ -32,6 +32,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Java](#java)
   - [Python](#python)
   - [Ruby](#ruby)
+- [Self Hosting](#self-hosting)
 - [Sysadmin References](#sysadmin-references)
 - [VPN](#vpn)
   - [VPN HowTo](#vpn-howto)
@@ -117,11 +118,6 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Concourse
 - [Setup Concourse Environment with Docker](https://concourse.ci/docker-repository.html)
 - [Getting Started with Concourse and Docker](https://blog.anynines.com/getting-started-with-concourse-ci-and-docker/)
-
-## Email
-
-## Email Server Setups
-- [Postfix Dovecot MySQL Virtual Users Postfixadmin](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
 
 ## Great Blogs
 
@@ -234,8 +230,15 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Self Hosting
 
+#### Email Server Setups
+- [Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin](https://www.exratione.com/2016/05/a-mailserver-on-ubuntu-16-04-postfix-dovecot-mysql/)
+- [Linuxsize: Postfix Dovecot MySQL Virtual Users Postfixadmin](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
+
 #### Financial
 - [SelfHosted Firefly](https://github.com/firefly-iii/firefly-iii)
+
+#### Mailscanner Server Setups
+- [Spamassassin with Debian 8](https://syslint.com/blog/tutorial/how-to-install-and-configure-spamassassin-with-postfix-in-debian-8/)
 
 #### Self Hosting Frameworks:
 - [Sandstorm](https://sandstorm.io/)
