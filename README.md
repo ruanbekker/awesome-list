@@ -33,6 +33,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Python](#python)
   - [Ruby](#ruby)
 - [Self Hosting](#self-hosting)
+- [Serverless](#serverless)
 - [Sysadmin References](#sysadmin-references)
 - [VPN](#vpn)
   - [VPN HowTo](#vpn-howto)
@@ -243,6 +244,10 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### Self Hosting Frameworks:
 - [Sandstorm](https://sandstorm.io/)
+
+## Serverless
+
+- [Serverless Zappa](https://github.com/Miserlou/Zappa)
 
 ## VPN:
 #### VPN-Howto:
