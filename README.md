@@ -207,6 +207,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Slack Alerts with Prometheus](https://medium.com/quiq-blog/better-slack-alerts-from-prometheus-49125c8c672b)
 - [Local Prometheus Stack](https://github.com/deanwilson/docker-compose-prometheus)
 - [Docker Swarm Promethus Setup #1](https://github.com/chmod666org/docker-swarm-prometheus)
+  - [Docker Swarm Prometheus Setup #1: Blog](https://chmod666.org/2017/08/monitoring-a-docker-swarm-cluster-with-prometheus)
 - [Docker Swarm Promethus Setup #2](https://homelab.business/docker-swarm-monitoring-part-01/)
 - [Docker Swarm Promethus Setup #3 (Blackbox)](https://medium.com/the-telegraph-engineering/how-prometheus-and-the-blackbox-exporter-makes-monitoring-microservice-endpoints-easy-and-free-of-a986078912ee)
 
