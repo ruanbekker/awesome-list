@@ -24,6 +24,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Environment Setups](#environment-setups)
 - [Knowledge Base](#knowledge-base)
   - [How does HTTPS Work](#kb-https)
+- [Monitoring](#monitoring)
 - [MongoDB](#mongodb)
   - [MongoDB Monitoring Tools](#mongodb-monitoring-tools)
   - [MongoDB Scripts](#mongodb-scripts)
@@ -199,7 +200,15 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [MongoDB Monitoring Tools](https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools)
 
 ## Monitoring
+- [Prometheus Grafana Docker](https://finestructure.co/blog/2016/5/16/monitoring-with-prometheus-grafana-docker-part-1)
+- [Prometheus Blog Seros](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/)
 - [Memcached Monitoring](https://blog.serverdensity.com/monitor-memcached/)
+- [Nagios with Nagios Graph](https://raymii.org/s/tutorials/Nagios_Core_4_Installation_on_Ubuntu_12.04.html)
+- [Slack Alerts with Prometheus](https://medium.com/quiq-blog/better-slack-alerts-from-prometheus-49125c8c672b)
+- [Local Prometheus Stack](https://github.com/deanwilson/docker-compose-prometheus)
+- [Docker Swarm Promethus Setup #1](https://github.com/chmod666org/docker-swarm-prometheus)
+- [Docker Swarm Promethus Setup #2](https://homelab.business/docker-swarm-monitoring-part-01/)
+- [Docker Swarm Promethus Setup #3 (Blackbox)](https://medium.com/the-telegraph-engineering/how-prometheus-and-the-blackbox-exporter-makes-monitoring-microservice-endpoints-easy-and-free-of-a986078912ee)
 
 ## Programming
 
