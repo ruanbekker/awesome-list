@@ -102,6 +102,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Flocker](https://flocker.readthedocs.io/en/latest/flocker-features/storage-backends.html#supported-backends)
 - [EMC ScaleIO](http://node.mu/2017/06/30/scaleio-on-ubuntu-xenial/)
 - [RexRay Ceph with Ansible](https://github.com/lucj/swarm-rexray-ceph)
+- [ContainX](http://containx.io/)
 
 #### OpenFaas:
 - [FaaS Releases](https://github.com/openfaas/faas/releases)
