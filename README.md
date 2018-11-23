@@ -212,6 +212,14 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Docker Swarm Promethus Setup #2](https://homelab.business/docker-swarm-monitoring-part-01/)
 - [Docker Swarm Promethus Setup #3 (Blackbox)](https://medium.com/the-telegraph-engineering/how-prometheus-and-the-blackbox-exporter-makes-monitoring-microservice-endpoints-easy-and-free-of-a986078912ee)
 
+## Monitoring and Alerting
+- [Cabot (Lightweight Pagerduty)](https://github.com/arachnys/cabot)
+- [Nagios](https://www.nagios.org/)
+
+## Monitoring as Statuspages
+- [Statuspage (darkpixel](https://github.com/darkpixel/statuspage)
+- [Cachet](https://github.com/cachethq/Cachet)
+
 ## Programming
 
 #### Golang:
