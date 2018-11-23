@@ -211,6 +211,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Docker Swarm Prometheus Setup #1: Blog](https://chmod666.org/2017/08/monitoring-a-docker-swarm-cluster-with-prometheus)
 - [Docker Swarm Promethus Setup #2](https://homelab.business/docker-swarm-monitoring-part-01/)
 - [Docker Swarm Promethus Setup #3 (Blackbox)](https://medium.com/the-telegraph-engineering/how-prometheus-and-the-blackbox-exporter-makes-monitoring-microservice-endpoints-easy-and-free-of-a986078912ee)
+- [Uptime (fzaninotto)](https://github.com/fzaninotto/uptime)
 
 ## Monitoring and Alerting
 - [Cabot (Lightweight Pagerduty)](https://github.com/arachnys/cabot)
