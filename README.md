@@ -268,6 +268,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Serverless
 
 - [Serverless Zappa](https://github.com/Miserlou/Zappa)
+- [Serverless Contact Form](https://github.com/faizanbashir/python-ses-dynamodb-contactform)
 
 ## VPN:
 #### VPN-Howto:
