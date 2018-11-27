@@ -278,6 +278,11 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Elasticshosts - IPSec VPN](https://www.elastichosts.com/blog/linux-l2tpipsec-vpn-client/)
 - [PPTP/IPSec/OpenVPN Auto Install](https://github.com/bedefaced/vpn-install)
 
+## Website Templates
+
+#### Resume Templates
+- [johnmarcampbell resume-site](https://github.com/johnmarcampbell/resume-site)
+
 ## Web Frameworks
 
 #### Python Flask:
