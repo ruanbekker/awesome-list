@@ -24,6 +24,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Environment Setups](#environment-setups)
 - [Knowledge Base](#knowledge-base)
   - [How does HTTPS Work](#kb-https)
+- [Machine Learning](#machine-learning)
 - [Monitoring](#monitoring)
 - [MongoDB](#mongodb)
   - [MongoDB Monitoring Tools](#mongodb-monitoring-tools)
@@ -189,6 +190,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Linuxkit:
 - [Getting Started with Linuxkit](https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321)
+
+## Machine Learning:
+- [PracticalAI](https://github.com/GokuMohandas/practicalAI/blob/master/README.md)
 
 ## Metrics:
 - [AppMetrics with Flask](https://github.com/avalente/appmetrics)
