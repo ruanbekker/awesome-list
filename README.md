@@ -292,5 +292,6 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Python Flask:
 - [Python Flask Upload Example](https://gist.github.com/dAnjou/2874714)
 - [Awesome Flask - humiaozuzu](https://github.com/humiaozuzu/awesome-flask#awesome-flask)
+- [Awesome Flask Apps - Greyli](https://github.com/greyli?tab=repositories)
 - [Flask over HTTPS (MG)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 - [Flask Advanced Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1)
