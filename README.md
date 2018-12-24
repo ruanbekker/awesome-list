@@ -295,3 +295,4 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Awesome Flask Apps - Greyli](https://github.com/greyli?tab=repositories)
 - [Flask over HTTPS (MG)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 - [Flask Advanced Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1)
+- [Flask MVC Boilerplate](https://github.com/tojrobinson/flask-mvc)
