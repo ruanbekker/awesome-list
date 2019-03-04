@@ -205,6 +205,8 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [MongoDB Monitoring Tools](https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools)
 
 ## Monitoring
+- [Docker Swarm Monitoring Stack: Telegraf, InfluxDB, Chronograf, Kapacitor](https://hackernoon.com/monitor-swarm-cluster-with-tick-stack-slack-3aaa6483d44a) [github source](https://github.com/mlabouardy/swarm-tick)
+- [Docker Swarm Monitoring Stack: Prometheus, Grafana, cAdvisor, Node Exporter](https://stefanprodan.com/2017/docker-swarm-instrumentation-with-prometheus/) [github source](https://github.com/stefanprodan/swarmprom)
 - [Prometheus Grafana Docker](https://finestructure.co/blog/2016/5/16/monitoring-with-prometheus-grafana-docker-part-1)
 - [Prometheus Blog Seros](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/)
 - [Memcached Monitoring](https://blog.serverdensity.com/monitor-memcached/)
