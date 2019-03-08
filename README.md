@@ -123,6 +123,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 #### Concourse
 - [Setup Concourse Environment with Docker](https://concourse.ci/docker-repository.html)
 - [Getting Started with Concourse and Docker](https://blog.anynines.com/getting-started-with-concourse-ci-and-docker/)
+- [Concourse Gated Pipelines](https://github.com/pivotalservices/concourse-pipeline-samples/tree/master/concourse-pipeline-patterns/gated-pipelines)
 
 ## Great Blogs
 
