@@ -49,6 +49,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Authentication
 - [Nginx ES and Kibana Proxy with LDAP](https://mapr.com/blog/how-secure-elasticsearch-and-kibana/)
 
+## Data Science
+- [bulutyazilim - datascience awesome list](https://github.com/bulutyazilim/awesome-datascience)
+
 ## Docker
 
 #### RaspberryPi ARM Images:
