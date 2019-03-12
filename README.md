@@ -63,9 +63,9 @@ Logging:
 
 Metrics:
 
-- [AppMetrics with Flask](https://github.com/avalente/appmetrics)
-- [Scales: Metrics for Python](https://github.com/Cue/scales)
-- [Graphite: Python Flask Metrics](https://pypi.org/project/graphite-pymetrics/)
+- [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
+- [Monitoring with Prometheus](https://medium.com/@soumyadipde/monitoring-in-docker-stacks-its-that-easy-with-prometheus-5d71c1042443)
+- [UschtWill - Prometheus Grafana Elastalert](https://github.com/uschtwill/docker_monitoring_logging_alerting)
 
 #### RaspberryPi ARM Images:
 - [arm32v6/alpine:edge](https://hub.docker.com/r/arm32v6/alpine/)
@@ -131,6 +131,11 @@ Metrics:
 - [UschtWill - Prometheus Grafana Elastalert](https://github.com/uschtwill/docker_monitoring_logging_alerting)
 - [Chmod-Org Promethus with Blackbox](https://github.com/chmod666org/docker-swarm-prometheus)
 - [Finestructure: Prometheus Tutorial](https://finestructure.co/blog/2016/5/16/monitoring-with-prometheus-grafana-docker-part-1)
+
+## Logging / Kibana / Beats
+
+- [shazChaudhry Swarm GELF Stack](https://github.com/shazChaudhry/docker-elastic)
+
 
 ## Continious Integration:
 
