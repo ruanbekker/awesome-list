@@ -12,7 +12,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Docker Awesome Lists](#docker-awesome-lists)
   - [Docker Storage](#docker-storage)
   - [OpenFaas](#openfaas)
-  - [Deploy Stacks to your Swarm](#deploy-stacks-to-your-swarm
+  - [Deploy Stacks to your Swarm](#deploy-stacks-to-your-swarm)
 - [DynamoDB](#dynamodb)
   - [DynamoDB Docs](#dynamodb-docs)
   - [DynamoDB Best Practices](#dynamodb-best-practices)
