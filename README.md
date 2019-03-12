@@ -12,6 +12,7 @@ My Awesome List of anything cool that my curious mind finds interesting
   - [Docker Awesome Lists](#docker-awesome-lists)
   - [Docker Storage](#docker-storage)
   - [OpenFaas](#openfaas)
+  - [Deploy Stacks to your Swarm](#deploy-stacks-to-your-swarm
 - [DynamoDB](#dynamodb)
   - [DynamoDB Docs](#dynamodb-docs)
   - [DynamoDB Best Practices](#dynamodb-best-practices)
@@ -53,6 +54,18 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [bulutyazilim - datascience awesome list](https://github.com/bulutyazilim/awesome-datascience)
 
 ## Docker
+
+#### Deploy Stacks to your Swarm:
+
+Logging:
+
+- [shazChaudhry Swarm GELF Stack](https://github.com/shazChaudhry/docker-elastic)
+
+Metrics:
+
+- [AppMetrics with Flask](https://github.com/avalente/appmetrics)
+- [Scales: Metrics for Python](https://github.com/Cue/scales)
+- [Graphite: Python Flask Metrics](https://pypi.org/project/graphite-pymetrics/)
 
 #### RaspberryPi ARM Images:
 - [arm32v6/alpine:edge](https://hub.docker.com/r/arm32v6/alpine/)
@@ -110,6 +123,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 #### OpenFaas:
 - [FaaS Releases](https://github.com/openfaas/faas/releases)
+- [FaaS Workshop](https://github.com/openfaas/workshop)
 
 #### Prometheus / Grafana on Swarm:
 - [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
