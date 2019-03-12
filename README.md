@@ -196,6 +196,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 ## Linuxkit:
 - [Getting Started with Linuxkit](https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321)
 
+## Logging Stacks
+- [shazChaudhry Swarm GELF Stack](https://github.com/shazChaudhry/docker-elastic)
+
 ## Machine Learning:
 - [PracticalAI](https://github.com/GokuMohandas/practicalAI/blob/master/README.md)
 
