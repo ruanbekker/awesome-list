@@ -55,7 +55,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 
 ## Docker
 
-#### Deploy Stacks to your Swarm:
+#### Deploy Stacks to your Swarm: :whale: :heart:
 
 Logging:
 
@@ -63,9 +63,8 @@ Logging:
 
 Metrics:
 
-- [StefanProdan - SwarmProm](https://github.com/stefanprodan/swarmprom)
-- [Monitoring with Prometheus](https://medium.com/@soumyadipde/monitoring-in-docker-stacks-its-that-easy-with-prometheus-5d71c1042443)
-- [UschtWill - Prometheus Grafana Elastalert](https://github.com/uschtwill/docker_monitoring_logging_alerting)
+- [StefanProdan - Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager](https://github.com/stefanprodan/swarmprom)
+- [Mlabouardy - Telegraf, InfluxDB, Chronograf, Kapacitor & Slack](https://github.com/mlabouardy/swarm-tick)
 
 #### RaspberryPi ARM Images:
 - [arm32v6/alpine:edge](https://hub.docker.com/r/arm32v6/alpine/)
