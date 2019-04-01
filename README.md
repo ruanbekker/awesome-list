@@ -159,6 +159,9 @@ Metrics:
 - [CI/CD Nodejs Tutorial with Jenkins](https://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
 - [CI/CD Nodejs Tutorial with Jenkins @medium](https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c)
 
+#### SwarmCi
+- [SwarmCI](https://github.com/ghostsquad/swarmci)
+
 #### Travis-CI
 - [Getting Started with Travis-CI (Original Docs)](https://docs.travis-ci.com/user/getting-started/)
 - [Getting Started with Travis-CI (dwyl - nodejs)](https://github.com/dwyl/learn-travis)
