@@ -153,6 +153,7 @@ Metrics:
 - [Joelabrahamsson.com](http://joelabrahamsson.com/elasticsearch-101/)
 - [Benjamin Cane](http://bencane.com/)
 - [Michael Herman](http://mherman.org/)
+- [Charles Leifer](http://charlesleifer.com/)
 
 #### Jenkins
 - [Modess - PHP with Jenkins](https://modess.io/jenkins-php/)
