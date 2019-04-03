@@ -66,6 +66,9 @@ Metrics:
 - [StefanProdan - Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager](https://github.com/stefanprodan/swarmprom)
 - [Mlabouardy - Telegraf, InfluxDB, Chronograf, Kapacitor & Slack](https://github.com/mlabouardy/swarm-tick)
 
+#### Awesome Docker Repos
+- [Jess's Dockerfiles](https://github.com/jessfraz/dockerfiles)
+
 #### RaspberryPi ARM Images:
 - [arm32v6/alpine:edge](https://hub.docker.com/r/arm32v6/alpine/)
 - [arm32v6/golang:alpine](https://hub.docker.com/r/arm32v6/golang/)
