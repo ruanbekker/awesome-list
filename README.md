@@ -137,15 +137,6 @@ Metrics:
 - [Concourse Gated Pipelines](https://github.com/pivotalservices/concourse-pipeline-samples/tree/master/concourse-pipeline-patterns/gated-pipelines)
 - [Concourse Boilerplate](https://github.com/EugenMayer/concourseci-server-boilerplate)
 
-## Great Blogs
-
-- [Exratione.com](https://www.exratione.com/blog/)
-- [Joelabrahamsson.com](http://joelabrahamsson.com/elasticsearch-101/)
-- [Benjamin Cane](http://bencane.com/)
-- [Michael Herman](http://mherman.org/)
-- [Charles Leifer](http://charlesleifer.com/)
-- [Labouardy](https://www.blog.labouardy.com/)
-
 #### Jenkins
 - [Modess - PHP with Jenkins](https://modess.io/jenkins-php/)
 - [CI/CD Nodejs Tutorial with Jenkins](https://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
@@ -206,6 +197,15 @@ Metrics:
 ## KB HTTPS
 - [How does HTTPS work (Miguel Grinberg)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 
+## Great Blogs
+
+- [Exratione.com](https://www.exratione.com/blog/)
+- [Joelabrahamsson.com](http://joelabrahamsson.com/elasticsearch-101/)
+- [Benjamin Cane](http://bencane.com/)
+- [Michael Herman](http://mherman.org/)
+- [Charles Leifer](http://charlesleifer.com/)
+- [Labouardy](https://www.blog.labouardy.com/)
+
 ## Linuxkit:
 - [Getting Started with Linuxkit](https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321)
 
@@ -224,6 +224,10 @@ Metrics:
 - [Setup MongoDB Cluster](https://linode.com/docs/databases/mongodb/build-database-clusters-with-mongodb/)
 - [MongoDB Scripts](https://github.com/AD7six/mongo-scripts)
 - [MongoDB Monitoring Tools](https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools)
+- [Roles with MongoDB](https://studio3t.com/knowledge-base/articles/mongodb-users-roles-explained-part-1/)
+- [Queries: Guru99](https://www.guru99.com/mongodb-tutorials.html)
+- [Queries: Exploratory](https://blog.exploratory.io/an-introduction-to-mongodb-query-for-beginners-bd463319aa4c)
+- [Queries: Tutorialspoint](https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm)
 
 ## Monitoring
 - [Docker Swarm Monitoring Stack: Telegraf, InfluxDB, Chronograf, Kapacitor](https://hackernoon.com/monitor-swarm-cluster-with-tick-stack-slack-3aaa6483d44a) [github source](https://github.com/mlabouardy/swarm-tick)
