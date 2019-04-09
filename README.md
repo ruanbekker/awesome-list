@@ -157,6 +157,7 @@ Metrics:
 - [Benjamin Cane](http://bencane.com/)
 - [Michael Herman](http://mherman.org/)
 - [Charles Leifer](http://charlesleifer.com/)
+- [Labouardy](https://www.blog.labouardy.com/)
 
 #### Jenkins
 - [Modess - PHP with Jenkins](https://modess.io/jenkins-php/)
