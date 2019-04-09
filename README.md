@@ -47,6 +47,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 
+## Epic Github Repos
+- [mlabouardy](https://github.com/mlabouardy?tab=repositories)
+
 ## Authentication
 - [Nginx ES and Kibana Proxy with LDAP](https://mapr.com/blog/how-secure-elasticsearch-and-kibana/)
 
