@@ -1,9 +1,12 @@
-## Get Resource Information
+## Provisioning 
 
 ### Setup Kubernetes 
 
 - [Kubernetes on Ubuntu](https://gist.github.com/ruanbekker/38a38aea5f325f7fa4a19e795ef4f0d0)
 - [[K3s](https://github.com/rancher/k3s#quick-start)
+
+## Get Resource Information
+
 
 ### Nodes
 
