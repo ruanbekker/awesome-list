@@ -59,7 +59,9 @@ WriteResult({ "nInserted" : 1 })
 
 ## Read from MongoDB
 
-Read all the data from a collection:
+Read all the data from a collection, similar to:
+
+- `select * from mycol1` :
 
 ```
 > db.mycol1.find()
@@ -92,3 +94,21 @@ Using pretty printing:
 	]
 }
 ```
+
+Select only the name and age key, similar to:
+
+- `select name, age from mycol1` :
+
+```
+> db.mycol1.find({}, {"name": 1, "age": 1, "_id": 0})
+{ "name" : "ruan", "age" : 32 }
+{ "name" : "michelle", "age" : 28 }
+```
+
+Select only the data where the age is equal to something, similar to:
+- `select name, age from mycol1 where age = 32` :
+
+```
+> db.mycol1.find({"age": 32}, {"name": 1, "age": 1, "_id": 0})
+{ "name" : "ruan", "age" : 32 }
+````
