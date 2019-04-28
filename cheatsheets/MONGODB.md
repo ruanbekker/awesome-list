@@ -1,6 +1,9 @@
 ## External Resources:
 - [MongoDB Cheatsheet #1](https://gist.github.com/rbekker87/5b4cd9ef36b6ae092a6260ab9e621a43)
 
+- A field in mongodb : {`"key": "value"`}
+- A field consist of a key and value
+- A operator like `gte` or `lt` can be used
 
 ## View Databases
 
@@ -112,3 +115,18 @@ Select only the data where the age is equal to something, similar to:
 > db.mycol1.find({"age": 32}, {"name": 1, "age": 1, "_id": 0})
 { "name" : "ruan", "age" : 32 }
 ````
+
+Return the name from a given document id, similar to:
+- `select name from mycol1 where id = xx` :
+
+```
+> db.mycol1.findOne({_id: ObjectId("5cc60c8ebdbf7f5dd3f7cdc3")}).name
+ruan
+```
+
+Find documents older than a specific age:
+
+```
+> db.mycol1.find({"age": {"$gt": 30}})
+{ "_id" : ObjectId("5cc60c8ebdbf7f5dd3f7cdc3"), "name" : "ruan", "age" : 32, "hobbies" : [ "golf", "programming", "music" ] }
+```
