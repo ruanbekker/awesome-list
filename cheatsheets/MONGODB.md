@@ -1,3 +1,94 @@
 ## External Resources:
 - [MongoDB Cheatsheet #1](https://gist.github.com/rbekker87/5b4cd9ef36b6ae092a6260ab9e621a43)
 
+
+## View Databases
+
+View existing databases:
+
+```
+> show dbs
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+```
+
+Create or switch to a database:
+
+```
+> use mydb
+switched to db mydb
+```
+
+View current database:
+
+```
+> db
+mydb
+```
+
+## Collections
+
+Create a collection:
+
+```
+> db.createCollection("mycol1")
+{ "ok" : 1 }
+> db.createCollection("mycol2")
+{ "ok" : 1 }
+```
+
+View collections:
+
+```
+> show collections
+mycol1
+mycol2
+```
+
+## Write to MongoDB
+
+Insert data into a collection:
+
+```
+> db.mycol1.insert({"name": "ruan", "age": 32, "hobbies": ["golf", "programming", "music"]})
+WriteResult({ "nInserted" : 1 })
+> db.mycol1.insert({"name": "michelle", "age": 28, "hobbies": ["art", "music", "reading"]})
+WriteResult({ "nInserted" : 1 })
+```
+
+## Read from MongoDB
+
+Read all the data from a collection:
+
+```
+> db.mycol1.find()
+{ "_id" : ObjectId("5cc60c8ebdbf7f5dd3f7cdc3"), "name" : "ruan", "age" : 32, "hobbies" : [ "golf", "programming", "music" ] }
+{ "_id" : ObjectId("5cc60cacbdbf7f5dd3f7cdc4"), "name" : "michelle", "age" : 28, "hobbies" : [ "art", "music", "reading" ] }
+```
+
+Using pretty printing:
+
+```
+> db.mycol1.find().pretty()
+{
+	"_id" : ObjectId("5cc60c8ebdbf7f5dd3f7cdc3"),
+	"name" : "ruan",
+	"age" : 32,
+	"hobbies" : [
+		"golf",
+		"programming",
+		"music"
+	]
+}
+{
+	"_id" : ObjectId("5cc60cacbdbf7f5dd3f7cdc4"),
+	"name" : "michelle",
+	"age" : 28,
+	"hobbies" : [
+		"art",
+		"music",
+		"reading"
+	]
+}
+```
