@@ -229,6 +229,7 @@ Metrics:
 - [Queries: Guru99](https://www.guru99.com/mongodb-tutorials.html)
 - [Queries: Exploratory](https://blog.exploratory.io/an-introduction-to-mongodb-query-for-beginners-bd463319aa4c)
 - [Queries: Tutorialspoint](https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm)
+- [Queries: MongoDB Cheatsheet](https://gist.github.com/rbekker87/5b4cd9ef36b6ae092a6260ab9e621a43)
 
 ## Monitoring
 - [Docker Swarm Monitoring Stack: Telegraf, InfluxDB, Chronograf, Kapacitor](https://hackernoon.com/monitor-swarm-cluster-with-tick-stack-slack-3aaa6483d44a) [github source](https://github.com/mlabouardy/swarm-tick)
