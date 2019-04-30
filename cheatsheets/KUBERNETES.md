@@ -21,3 +21,24 @@ $ kubectl get node --selector=[label_name]
 $ kubectl get nodes -o jsonpath='{.items[*].status.addresses[?(@.type=="External IP")].address}'
 $ kubectl top node [node_name]
 ```
+
+### Pods
+
+* Pods: The single smallest interactable unit in Kubernetes. 
+* Pod can be comprimised of multiple containers that will form a unit deployed on a single node together
+* Pod receives one IP which is shared between containers
+
+```
+$ kubectl get pods
+$ kubectl get pods --all-namespaces
+$ kubectl get pods --namespace kube-system
+$ kubectl get pods --namespace --output yaml
+$ kubectl get pods -o wide
+$ kubectl describe pods --all-namespaces
+$ kubectl get pods --show-labels --all-namespaces
+$ kubectl get pods --selector app=svclb-traefik --namespace kube-system
+$ kubectl get pod svclb-traefik-79556fd88b-p6qp9 --namespace kube-system
+$ kubectl get pod svclb-traefik-79556fd88b-p6qp9 --namespace kube-system -o yaml --export
+$ kubectl get pod svclb-traefik-79556fd88b-p6qp9 --namespace kube-system -o yaml --export > exported.yml
+
+```
