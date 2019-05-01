@@ -90,6 +90,7 @@ Metrics:
 - [SameerSbn](https://hub.docker.com/u/sameersbn/)
 - [Linuxserver.io](https://hub.docker.com/u/linuxserver/)
 - [Apache-PHP5](https://hub.docker.com/r/nimmis/alpine-apache-php5/)
+- [Apache-PHP-Email](https://github.com/harobed/docker-php-ssmtp)
 
 #### Docker-Awesome-Lists
 - [Java Docker Services](https://github.com/AdamBien/docklands)
