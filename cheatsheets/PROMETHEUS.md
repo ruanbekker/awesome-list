@@ -34,3 +34,15 @@ Histogram:
 ```
 histogram_quantile(1.00, sum(rate(prometheus_http_request_duration_seconds_bucket[5m])) by (handler, le)) * 1e3
 ```
+
+Number of Nodes (Up):
+
+```
+count(up{job="cadvisor_my-swarm"})
+```
+
+HAProxy Response Codes:
+
+```
+haproxy_server_http_responses_total{backend=~"$backend", server=~"$server", code=~"$code", alias=~"$alias"} > 0
+```
