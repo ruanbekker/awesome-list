@@ -2,6 +2,8 @@
 
 - [Prometheus](https://prometheus.io/docs/querying/basics/)
 - [PromQL for Beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085)
+- [Biggest Metrics](https://www.robustperception.io/which-are-my-biggest-metrics)
+- [Top Metrics](https://github.com/grafana/grafana/issues/6561)
 
 ## Examples:
 
