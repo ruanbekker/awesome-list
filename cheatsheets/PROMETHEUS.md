@@ -46,3 +46,27 @@ HAProxy Response Codes:
 ```
 haproxy_server_http_responses_total{backend=~"$backend", server=~"$server", code=~"$code", alias=~"$alias"} > 0
 ```
+
+Metrics with the most resources:
+
+```
+topk(10, count by (__name__)({__name__=~".+"}))
+```
+
+the same, but per job:
+
+```
+topk(10, count by (__name__, job)({__name__=~".+"}))
+```
+
+or jobs have the most time series:
+
+```
+topk(10, count by (job)({__name__=~".+"}))
+```
+
+Top 5 per value:
+
+```
+sort_desc(topk(5, aws_service_costs))
+```
