@@ -72,3 +72,9 @@ Top 5 per value:
 ```
 sort_desc(topk(5, aws_service_costs))
 ```
+
+Table - Top 5 (enable instant as well):
+
+```
+sort(topk(5, aws_service_costs))
+```
