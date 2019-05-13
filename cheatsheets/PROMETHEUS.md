@@ -81,3 +81,16 @@ Table - Top 5 (enable instant as well):
 ```
 sort(topk(5, aws_service_costs))
 ```
+
+Group per Day (Table) - wip
+
+```
+aws_service_costs{service=~"$service"} + ignoring(year, month, day) group_right
+  count_values without() ("year", year(timestamp(
+    count_values without() ("month", month(timestamp(
+      count_values without() ("day", day_of_month(timestamp(
+        aws_service_costs{service=~"$service"}
+      )))
+    )))
+  ))) * 0
+```
