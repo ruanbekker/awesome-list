@@ -94,3 +94,12 @@ aws_service_costs{service=~"$service"} + ignoring(year, month, day) group_right
     )))
   ))) * 0
 ```
+
+Group Metrics per node hostname:
+
+```
+node_memory_MemAvailable_bytes * on(instance) group_left(nodename) (node_uname_info)
+
+..
+{cloud_provider="amazon",instance="x.x.x.x:9100",job="node_n1",my_hostname="n1.x.x",nodename="n1.x.x"}
+```
