@@ -28,6 +28,13 @@ $ ceph osd lspools
 2 volumes
 ```
 
+## Get PGNum:
+
+```
+$ ceph osd pool get volumes pg_num
+pg_num: 100
+```
+
 ### Set Dashboard Username/Password:
 
 ```
