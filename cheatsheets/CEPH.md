@@ -17,3 +17,13 @@ ceph -s
     usage:   3.0 GiB used, 27 GiB / 30 GiB avail
     pgs:     200 active+clean
 ```
+
+### Set Dashboard Username/Password:
+
+```
+ceph dashboard set-login-credentials
+```
+
+## Resources:
+- http://docs.ceph.com/docs/mimic/mgr/dashboard/
+- https://wiki.nix-pro.com/view/Ceph_FAQ/Tweaks/Howtos
