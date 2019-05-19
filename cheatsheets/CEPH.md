@@ -20,12 +20,36 @@ $ ceph -s
     pgs:     200 active+clean
 ```
 
-### List Pools:
+### Pools:
+
+List pools:
 
 ```
 $ ceph osd lspools
 1 default
 2 volumes
+```
+
+List objects in pool:
+
+```
+$ rados -p volumes ls
+rbd_header.10516b8b4567
+journal_data.2.10516b8b4567.1
+journal_data.2.10516b8b4567.2
+```
+
+View disk space of a pool:
+
+```
+$ rados df -p volumes
+POOL_NAME   USED OBJECTS CLONES COPIES MISSING_ON_PRIMARY UNFOUND DEGRADED RD_OPS     RD WR_OPS     WR
+volumes   21 MiB      16      0     48                  0       0        0    665 11 MiB    794 16 MiB
+
+total_objects    16
+total_used       3.0 GiB
+total_avail      27 GiB
+total_space      30 GiB
 ```
 
 ## Get PGNum:
