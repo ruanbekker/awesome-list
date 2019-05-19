@@ -28,10 +28,10 @@ ceph dashboard set-login-credentials
 
 ## Ceph Docker Volumes
 
-Ceph on Docker:
+### Dockerized Ceph:
 - https://github.com/flaviostutz/ceph-osd
 
-Docker Volume Plugin:
+### Docker Volume Plugin:
 - https://github.com/flaviostutz/cepher
 
 ## Resources:
