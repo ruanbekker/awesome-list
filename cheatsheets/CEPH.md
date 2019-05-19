@@ -3,7 +3,7 @@
 ### View Status:
 
 ```
-ceph -s
+$ ceph -s
   cluster:
     id:     uuid-x-x-x-x
     health: HEALTH_OK
@@ -18,6 +18,14 @@ ceph -s
     objects: 16  objects, 21 MiB
     usage:   3.0 GiB used, 27 GiB / 30 GiB avail
     pgs:     200 active+clean
+```
+
+### List Pools:
+
+```
+$ ceph osd lspools
+1 default
+2 volumes
 ```
 
 ### Set Dashboard Username/Password:
