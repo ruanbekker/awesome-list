@@ -143,6 +143,7 @@ Metrics:
 - [Modess - PHP with Jenkins](https://modess.io/jenkins-php/)
 - [CI/CD Nodejs Tutorial with Jenkins](https://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
 - [CI/CD Nodejs Tutorial with Jenkins @medium](https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c)
+- [Epic CICD workflow with Jenkins, Gitlab, Sonar, Nexus](https://github.com/shazChaudhry/docker-swarm-mode)
 
 #### SwarmCi
 - [SwarmCI](https://github.com/ghostsquad/swarmci)
