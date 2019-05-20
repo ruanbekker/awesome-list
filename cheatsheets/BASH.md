@@ -41,3 +41,24 @@ Redirect the output to iptables:
 ```
 $ for ip in $(cat /var/log/maillog | grep 'lost connection after AUTH from unknown' | cut -d'[' -f3 | cut -d ']' -f1 | sort | uniq); do iptables -I INPUT -s ${ip} -p tcp --dport 25 -j DROP; done
 ```
+
+## While Loops
+
+### Run process for 5 Seconds
+
+```
+set -ex
+count=0
+echo "boot"
+ping localhost &
+while [ $count -le 5 ]
+  do
+    sleep 1
+    count=$((count + 1))
+    echo $count
+  done
+ps aux | grep ping
+echo "tear down"
+kill $!
+sleep 2
+```
