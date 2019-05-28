@@ -26,3 +26,9 @@ docker service create --name mariadb-cluster \
 	--env DB_SERVICE_NAME=mariadb-cluster \
 	toughiq/mariadb-cluster:10.2
 ```
+
+Others:
+
+```
+{{.Node.Hostname}}-{{.Task.Slot}}
+```
