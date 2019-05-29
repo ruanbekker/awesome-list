@@ -115,3 +115,9 @@ Container Memory, per Task, Node:
 ```
 sum(container_memory_rss{container_label_com_docker_swarm_task_name=~".+"}) BY (container_label_com_docker_swarm_task_name, container_label_com_docker_swarm_node_id)
 ```
+
+Container Memory per Node:
+
+```
+sum(container_memory_rss{container_label_com_docker_swarm_task_name=~".+"}) BY (container_label_com_docker_swarm_node_id)
+```
