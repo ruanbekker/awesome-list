@@ -30,5 +30,12 @@ docker service create --name mariadb-cluster \
 Others:
 
 ```
-{{.Node.Hostname}}-{{.Task.Slot}}
+{{.Service.ID}}
+{{.Service.Name}}
+{{.Service.Labels}}
+{{.Node.ID}}
+{{.Node.Hostname}}
+{{.Task.ID}}
+{{.Task.Name}}
+{{.Task.Slot}}
 ```
