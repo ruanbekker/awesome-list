@@ -103,3 +103,9 @@ node_memory_MemAvailable_bytes * on(instance) group_left(nodename) (node_uname_i
 ..
 {cloud_provider="amazon",instance="x.x.x.x:9100",job="node_n1",my_hostname="n1.x.x",nodename="n1.x.x"}
 ```
+
+Container Memory Usage: Total:
+
+```
+sum(container_memory_rss{container_label_com_docker_swarm_task_name=~".+"})
+```
