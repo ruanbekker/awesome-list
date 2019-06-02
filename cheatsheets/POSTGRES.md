@@ -79,3 +79,13 @@ List databases:
  postgres=> \c restapi1
  You are now connected to database "restapi1" as user "appuser".
  ```
+
+Show tables:
+
+```
+restapi1=> \dt
+             List of relations
+ Schema |      Name       | Type  |  Owner
+--------+-----------------+-------+---------
+ public | alembic_version | table | appuser
+```
