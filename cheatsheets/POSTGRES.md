@@ -72,3 +72,9 @@ List databases:
  restapi1  | appuser | UTF8     | C       | C     | =Tc/appuser        +
  ```
  
+ Switch to database:
+ 
+ ```
+ postgres=> \c restapi1
+ You are now connected to database "restapi1" as user "appuser".
+ ```
