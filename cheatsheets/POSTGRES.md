@@ -42,3 +42,9 @@ List roles:
  ruan      | Superuser, Create role, Create DB, Replication, Bypass RLS | {}
 
 ```
+
+Allow user to create databases:
+
+```
+ALTER ROLE appuser CREATEDB;
+```
