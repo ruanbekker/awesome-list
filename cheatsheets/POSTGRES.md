@@ -1,6 +1,7 @@
 ## Resources
 
 - https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
+- https://www.tutorialspoint.com/postgresql/postgresql_schema.htm
 
 
 ## Setting Up
