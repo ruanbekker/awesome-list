@@ -62,3 +62,33 @@ echo "tear down"
 kill $!
 sleep 2
 ```
+
+## Redirecting Outputs
+
+### Stdout, Stderr 
+
+Redirect stderr to /dev/null:
+
+```
+grep -irl faker . 2>/dev/null
+```
+
+Redirect stdout to one file and stderr to another file:
+
+```
+grep -irl faker . > out 2>error
+```
+
+Redirect stderr to stdout (&1), and then redirect stdout to a file:
+
+```
+grep -irl faker . >out 2>&1
+```
+
+Redirect both to a file:
+
+```
+grep -irl faker . &> file.log
+```
+
+
