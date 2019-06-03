@@ -1,5 +1,120 @@
+# Elasticsearch Cheatsheet
+
+- [Using cURL](#using-curl)
+  - [Reindex](#reindex-using-curl)
+- [using Python]
+  - [Ingest](#ingest-using-python)
+
+
+## Using Curl
+
+#### Reindex using Curl
+
+Reindex source index to target index:
+
+```
+$ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reindex' -d '
+  {
+    "source": {
+      "index": ["my-metrics-2019.01.03"]
+    }, 
+    "dest": {
+      "index": "archived-metrics-2019.01.03", 
+    }
+}'
+```
+
+Reindex multiple source indices to one target index:
+
+```
+$ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reindex' -d '
+  {
+    "source": {
+      "index": ["my-metrics-2019.01.03", "my-metrics-2019.01.04"]
+    }, 
+    "dest": {
+      "index": "archived-metrics-2019.01", 
+    }
+}'
+```
+
+Reindex only missing documents from source to target index. You will receive conflicts for existing documents, but the proceed value will ignore the conflicts.
+
+```
+$ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reindex' -d '
+  {
+    "conflicts": "proceed", 
+    "source": {
+      "index": ["my-metrics-2019.01.03"]
+    }, 
+    "dest": {
+      "index": "archived-metrics-2019.01.03", 
+      "op_type": "create"
+    }
+}'
+```
+
+Reindex filtered data to a target index, by using a query:
+
+```
+$ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reindex' -d '
+  {
+    "source": {
+      "index": "my-metrics-2019.01.03",
+      "type": "log",
+      "query": {
+        "term": {
+          "status": "ERROR"
+        }
+      }
+    },
+    "dest": {
+      "index": "archived-error-metrics-2019.01.03"
+    }
+}'
+```
+
+Reindex the last 500 documents based on timestamp to a target index:
+
+```
+$ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reindex' -d '
+  {
+    "size": 500, 
+    "source": {
+      "index": "my-metrics-2019.01.03",
+      "sort": {
+        "timestamp": "desc"
+      }
+    }, 
+    "dest": {
+      "index": "archived-last500-metrics-2019.01.03", 
+      "op_type": "create"
+    }
+}'
+```
+
+Reindex only specific fields to a target index:
+
+```
+$ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reindex' -d '
+  {
+    "source": {
+      "index": "my-metrics-2019.01.03",
+      "_source": [
+        "response_code",
+        "request_method",
+        "referral"
+      ]
+    }, 
+    "dest": {
+      "index": "archived-subset-metrics-2019.01.03"
+    }
+}'
+```
 
 ## Python Library
+
+#### Ingest using Python
 
 Create a document and specify a `id`:
 
