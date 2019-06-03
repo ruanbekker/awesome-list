@@ -2,7 +2,7 @@
 
 - [Using cURL](#using-curl)
   - [Reindex](#reindex-using-curl)
-- [using Python]
+- [using Python](#python-library)
   - [Ingest](#ingest-using-python)
 
 
