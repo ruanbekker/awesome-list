@@ -39,3 +39,15 @@ Others:
 {{.Task.Name}}
 {{.Task.Slot}}
 ```
+
+#### Docker Service PS
+
+```
+$ docker service ps api --format '{{.Name}} {{.CurrentState}}'
+api.1 Running about an hour ago
+```
+
+
+Docs:
+- https://docs.docker.com/engine/reference/commandline/service_ps/
+
