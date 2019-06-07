@@ -9,6 +9,20 @@
 
 ## Using Curl
 
+#### Health
+
+Check all indices in yellow status:
+
+```
+curl -s -XGET 'http://127.0.0.1:9200/_cat/indices?v&health=yellow'
+```
+
+View recovery process:
+
+```
+curl -s -XGET 'http://127.0.0.1:9200/_cat/recovery?detailed&h=index,stage,time,bytes_percent'
+```
+
 #### Reindex using Curl
 
 Reindex source index to target index:
