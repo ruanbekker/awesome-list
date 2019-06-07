@@ -2,6 +2,7 @@
 
 - [Using cURL](#using-curl)
   - [Reindex](#reindex-using-curl)
+  - [Update Replica Shards](#update-replicas-curl)
 - [using Python](#python-library)
   - [Ingest](#ingest-using-python)
 
@@ -110,6 +111,15 @@ $ curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_reinde
       "index": "archived-subset-metrics-2019.01.03"
     }
 }'
+```
+
+#### Update Replicas Curl
+
+Increase/Decrease the number of Replica Shards using the Settings API:
+
+```
+curl -XPUT -H 'Content-Type: application/json' 'http://127.0.0.1:9200/my-index-2018.12.31/_settings' \
+  -d '{"index": {"number_of_replicas": 1, "refresh_interval": "30s"}}'
 ```
 
 ## Python Library
