@@ -1,6 +1,7 @@
 # Elasticsearch Cheatsheet
 
 - [Using cURL](#using-curl)
+  - [Cluster Health](#health-with-curl)
   - [Reindex](#reindex-using-curl)
   - [Update Replica Shards](#update-replicas-curl)
 - [using Python](#python-library)
@@ -9,7 +10,13 @@
 
 ## Using Curl
 
-#### Health
+#### Health with Curl
+
+View the cluster status:
+
+```
+curl -s -XGET 'http://127.0.0.1:9200_cluster/health?pretty'
+```
 
 Check all indices in yellow status:
 
