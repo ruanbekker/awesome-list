@@ -4,6 +4,7 @@
   - [Cluster Health](#health-with-curl)
   - [Reindex](#reindex-using-curl)
   - [Update Replica Shards](#update-replicas-curl)
+  - [Snapshots](#snapshots-with-curl)
 - [using Python](#python-library)
   - [Ingest](#ingest-using-python)
 
@@ -141,6 +142,20 @@ Increase/Decrease the number of Replica Shards using the Settings API:
 ```
 curl -XPUT -H 'Content-Type: application/json' 'http://127.0.0.1:9200/my-index-2018.12.31/_settings' \
   -d '{"index": {"number_of_replicas": 1, "refresh_interval": "30s"}}'
+```
+
+#### Snapshots with Curl
+
+View snapshot repositories:
+
+```
+curl -s -XGET 'http://127.0.0.1:9200/_snapshot?pretty'
+```
+
+View snapshots under repository:
+
+```
+curl -s -XGET 'http://127.0.0.1:9200/_cat/snapshots/index-backups?v'
 ```
 
 ## Python Library
