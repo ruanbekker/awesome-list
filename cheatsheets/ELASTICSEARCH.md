@@ -156,6 +156,7 @@ View snapshots under repository:
 
 ```
 curl -s -XGET 'http://127.0.0.1:9200/_cat/snapshots/index-backups?v'
+# id, status, start_epoch, start_time, end_epoch, end_time, duration, indices, successful_shards, failed_shards, total_shards
 ```
 
 Create a snapshot with all indices and wait for completion:
