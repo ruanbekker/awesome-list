@@ -158,6 +158,12 @@ View snapshots under repository:
 curl -s -XGET 'http://127.0.0.1:9200/_cat/snapshots/index-backups?v'
 ```
 
+Create a snapshot with all indices and wait for completion:
+
+```
+curl -XPUT -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_snapshot/index-backups/my-es-snapshot-latest?wait_for_completion=true'
+```
+
 ## Python Library
 
 #### Ingest using Python
