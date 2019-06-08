@@ -5,6 +5,7 @@
   - [Reindex](#reindex-using-curl)
   - [Update Replica Shards](#update-replicas-curl)
   - [Snapshots](#snapshots-with-curl)
+  - [Restore Snapshots](#restore-snapshots-with-curl)
 - [using Python](#python-library)
   - [Ingest](#ingest-using-python)
 
@@ -176,6 +177,70 @@ View snapshot info:
 
 ```
 curl -s 'http://127.0.0.1:9200/_snapshot/es-index-backups/my-es-snapshot-latest' | jq .
+```
+
+#### Restore Snapshots with Curl
+
+Restore with original names:
+
+```
+curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_snapshot/es-index-backups/test-snapshot-latest/_restore' -d '
+{
+  "indices": [
+    "kibana_sample_data_ecommerce", "kibana_sample_data_logs"
+  ], 
+  "ignore_unavailable": false, 
+  "include_global_state": false 
+}'
+```
+```
+curl 'http://127.0.0.1:9200/_cat/indices/kibana_sample*?v'
+health status index
+green  open   kibana_sample_data_logs
+green  open   kibana_sample_data_ecommerce
+```
+
+Restore and rename:
+
+```
+curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_snapshot/es-index-backups/test-snapshot-latest/_restore' -d '
+{
+  "indices": [
+    "kibana_sample_data_ecommerce", "kibana_sample_data_logs"
+  ], 
+  "ignore_unavailable": false, 
+  "include_global_state": false, 
+  "rename_pattern": "(.+)", 
+  "rename_replacement": "restored_index_$1" 
+}'
+```
+```
+curl 'http://127.0.0.1:9200/_cat/indices/*restored*?v'
+health status index
+green  open   restored_index_kibana_sample_data_ecommerce 
+green  open   restored_index_kibana_sample_data_logs
+```
+
+Restore and rename with a different name pattern:
+
+```
+curl -XPOST -H 'Content-Type: application/json' 'http://127.0.0.1:9200/_snapshot/es-index-backups/test-snapshot-latest/_restore' -d '
+{ 
+  "indices": [
+    "kibana_sample_data_ecommerce", "kibana_sample_data_logs"
+  ], 
+  "ignore_unavailable": false, 
+  "include_global_state": false, 
+  "rename_pattern": 
+  "kibana_sample_data_(.+)", 
+  "rename_replacement": "restored_index_$1" 
+}'
+```
+```
+curl 'http://127.0.0.1:9200/_cat/indices/*restored*?v'
+health status index                                       
+green  open   restored_index_ecommerce                    
+green  open   restored_index_logs                         
 ```
 
 ## Python Library
