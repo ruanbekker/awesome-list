@@ -172,6 +172,12 @@ curl -s -XGET 'http://127.0.0.1:9200/_cat/tasks?detailed'
 # cluster:admin/snapshot/create ..
 ```
 
+View snapshot info:
+
+```
+curl -s 'http://127.0.0.1:9200/_snapshot/es-index-backups/my-es-snapshot-latest' | jq .
+```
+
 ## Python Library
 
 #### Ingest using Python
