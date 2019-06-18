@@ -284,6 +284,7 @@ Metrics:
 - [Troubleshooting High IO Wait](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 - [IO Monitoring in Linux](https://blog.pythian.com/basic-io-monitoring-on-linux/)
 - [IOStat and VMStat for Performance Monitoring](http://xiayubin.com/blog/2014/01/29/how-i-use-iostat-and-vmstat-for-performance-analysis/)
+- [Debugging Heavy Load](https://www.tummy.com/articles/isolating-heavy-load/)
 
 ## Self Hosting
 
