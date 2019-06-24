@@ -150,14 +150,24 @@ curl -XPUT -H 'Content-Type: application/json' 'http://127.0.0.1:9200/my-index-2
 View snapshot repositories:
 
 ```
-curl -s -XGET 'http://127.0.0.1:9200/_snapshot?pretty'
+curl -s -XGET 'http://127.0.0.1:9200/_snapshot?format=json'
+{"cs-automated":{"type":"s3"},"es-index-backups":{"type":"s3"...
 ```
 
-View snapshots under repository:
+View snapshots under repository (table view):
 
 ```
 curl -s -XGET 'http://127.0.0.1:9200/_cat/snapshots/index-backups?v'
 # id, status, start_epoch, start_time, end_epoch, end_time, duration, indices, successful_shards, failed_shards, total_shards
+snapshot_2019.05.23 SUCCESS
+..
+```
+
+View snapshots under repository (json view):
+
+```
+curl -s -XGET 'http://127.0.0.1:9200/_cat/snapshots/es-index-backups?format=json'
+[{"id":"snapshot_2019.05.23","status":"SUCCESS"....
 ```
 
 Create a snapshot with all indices and wait for completion:
