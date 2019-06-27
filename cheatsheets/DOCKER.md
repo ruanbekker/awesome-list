@@ -47,6 +47,65 @@ $ docker service ps api --format '{{.Name}} {{.CurrentState}}'
 api.1 Running about an hour ago
 ```
 
+#### Docker Service Inspect
+
+Inspect the Service:
+
+```
+$ docker service inspect my-service
+[
+    {
+        "ID": "abcdef",
+        "Version": {
+            "Index": 123
+        },
+        "CreatedAt": "2018-05-30T00:00:00.452848973Z",
+        "UpdatedAt": "2018-05-30T00:00:00.457986437Z",
+        "Spec": {
+            "Name": "my-service",
+            "TaskTemplate": {
+                "ContainerSpec": {
+                ...
+                "LogDriver": {
+                    "Name": "sumologic",
+                    "Options": {
+                        "sumo-compress": "false",
+                        "sumo-sending-frequency": "500ms",
+                        "sumo-url": "https://endpoint.sumologic.com/receiver/..."
+                    }
+                    ...
+```
+
+Inspect the LogDriver:
+
+```
+$ docker service inspect my-service --format='{{.Spec.TaskTemplate.LogDriver}}'
+{sumologic map[sumo-compress:false sumo-sending-frequency:500ms sumo-url:https://endpointsumologic.com/receiver/...]}
+```
+
+Getting only the sumo-url value:
+
+```
+$ docker service inspect my-service -f '{{index .Spec.TaskTemplate.LogDriver.Options "sumo-url"}}'
+https://endpoint.sumologic.com/receiver/...
+```
+
+Getting the Swarm Service and Task Name by inspecting the container:
+
+```
+$ docker inspect abc123def --format '{{index .Config.Labels "com.docker.swarm.task.name"}}'
+my-app-ui.1.209jdwldi38jd
+```
+
+```
+$ docker inspect abc123def --format '{{index .Config.Labels "com.docker.swarm.node.id"}}'
+2093123jahas3d3
+```
+
+```
+$ docker inspect abc123def --format '{{index .Config.Labels "com.docker.swarm.service.name"}}'
+my-app-ui
+```
 
 Docs:
 - https://docs.docker.com/engine/reference/commandline/service_ps/
