@@ -13,7 +13,7 @@ mysql> CREATE USER 'user1'@'%' IDENTIFIED BY 'securepass';
 Grant User all Permissions to Database:
 
 ```
-mysql> GRANT ALL PRIVILEGES ON `user1`.`*` TO 'my_db'@'%';
+mysql> GRANT ALL PRIVILEGES ON `my_db`.`*` TO 'user1'@'%';
 ```
 
 Flush:
