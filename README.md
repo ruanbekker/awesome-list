@@ -188,6 +188,8 @@ Metrics:
 #### Elasticsearch Blogs
 - [Maximize Elasticsearch Indexing Performance](https://qbox.io/blog/maximize-guide-elasticsearch-indexing-performance-part-1)
 - [Autoritative Guide to ES Performance Tuning](https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1)
+- [Full text Search Queries](https://opendistro.github.io/for-elasticsearch-docs/docs/elasticsearch/full-text/)
+- [Query Elasticsearch](https://okfnlabs.org/blog/2013/07/01/elasticsearch-query-tutorial.html)
 
 #### Elasticsearch Tools
 - [Export Data from ES to ES](https://github.com/mallocator/Elasticsearch-Exporter)
