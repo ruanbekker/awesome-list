@@ -202,6 +202,10 @@ Metrics:
 ## KB HTTPS
 - [How does HTTPS work (Miguel Grinberg)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 
+## Golang
+
+- [Generate Fake Random Data with Golang](https://github.com/brianvoe/gofakeit)
+
 ## Great Blogs
 
 - [Exratione.com](https://www.exratione.com/blog/)
