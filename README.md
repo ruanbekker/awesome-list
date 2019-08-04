@@ -13,6 +13,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Grafana](#grafana)
 - [Great Blogs](#great-blogs)
 - [Knowledge Base](#knowledge-base)
+- [Kubernetes](#kubernetes)
 - [Machine Learning](#machine-learning)
 - [Monitoring](#monitoring)
 - [MongoDB](#mongodb)
@@ -202,6 +203,30 @@ Metrics:
 
 ## KB HTTPS
 - [How does HTTPS work (Miguel Grinberg)](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
+
+## Kubernetes
+
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes/blob/master/README.md)
+- [Kubernetes Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-a4)
+- [Getting Started: Python application on Kubernetes](https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/)
+- [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment)
+- [Prometheus Monitoring Stack with Kubernetes on DO](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-prometheus-grafana-and-alertmanager-monitoring-stack-on-digitalocean-kubernetes)
+- [Traefik as an Ingress Controller on Minikube](https://tech.evaneos.com/traefik-as-an-ingress-controller-on-minikube-with-kustomize-helm-a3b2f44a5c2a)
+- [Traefik Ingress with Kubernetes](https://itnext.io/traefik-cluster-as-ingress-controller-for-kubernetes-99fa6c34402)
+- [Manual Connect your Kubernetes from Outside](https://medium.com/faun/manually-connect-to-your-kubernetes-cluster-from-the-outside-d852346a7f0a)
+- [HTTPS Letsencrypt on k3s](https://pascalw.me/blog/2019/07/02/k3s-https-letsencrypt.html)
+- [Kubernetes: Nodeport vs Loadbalancer](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+- [Prometheus Monitoring Pipeline on Kubernetes](https://medium.com/kubernetes-tutorials/simple-management-of-prometheus-monitoring-pipeline-with-the-prometheus-operator-b445da0e0d1a)
+- [Building a Kubernetes CI/CD Pipeline with Rancher](https://rancher.com/blog/2018/2018-08-07-cicd-pipeline-k8s-autodevops-rancher-and-gitlab/)
+- [Building a Kubernetes CI/CD Pipeline with AWS](https://medium.com/swlh/universal-cicd-pipeline-on-aws-and-k8s-7b4129fac5d4)
+- [Gitea and Drone CI/CD on k3s](https://itnext.io/explore-gitea-drone-ci-cd-on-k3s-4a9e99f8b938)
+- [Serverless with Kubernetes using OpenFaaS and Linkerd2](https://github.com/openfaas-incubator/openfaas-linkerd2/blob/master/README.md)
+- [Managing Kubernetes with kubectl](https://rancher.com/blog/2019/how-to-manage-kubernetes-with-kubectl/)
+- [OpenFaas Workshop on k3s](https://gist.github.com/alexellis/a6ee5f094f86987a0dc508442220c52a)
+- [Kubernetes Hands-On Lab with collabnix](http://collabnix.com/kubernetes-hands-on-lab-4-deploy-application-stack-using-helm-on-play-with-kubernetes-platform/)
+- [Create ReadWrite Persistent Volumes on Kubernetes](https://medium.com/asl19-developers/create-readwritemany-persistentvolumeclaims-on-your-kubernetes-cluster-3a8db51f98e3)
+- [Kubernetes Clusters with k3s and multipass](https://medium.com/@mattiaperi/kubernetes-cluster-with-k3s-and-multipass-7532361affa3)
+
 
 ## Golang
 
