@@ -338,6 +338,7 @@ Metrics:
 
 - [Serverless Zappa](https://github.com/Miserlou/Zappa)
 - [Serverless Contact Form](https://github.com/faizanbashir/python-ses-dynamodb-contactform)
+- [Serverless Authentication on AWS (danilop)](https://github.com/danilop/LambdAuth)
 
 ## VPN:
 #### VPN-Howto:
