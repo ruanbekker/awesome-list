@@ -325,8 +325,10 @@ Metrics:
 
 #### Email Server Setups
 - [Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin](https://www.exratione.com/2016/05/a-mailserver-on-ubuntu-16-04-postfix-dovecot-mysql/)
+- [Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin (Ubuntu 18)](https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/)
 - [Linuxsize: Postfix Dovecot MySQL Virtual Users Postfixadmin](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
 - [Howtoforge: Postfix, MySQL, Dovecto, Dspam](https://www.howtoforge.com/postfix_mysql_dovecot_dspam_clamav_postgrey_rbl_debian_etch)
+- [Linuxsize: VirtualUsers, MySQL, Postfix, Dovecot](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
 
 #### Mailscanner Server Setups
 - [Spamassassin with Debian 8](https://syslint.com/blog/tutorial/how-to-install-and-configure-spamassassin-with-postfix-in-debian-8/)
