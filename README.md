@@ -19,6 +19,8 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [MongoDB](#mongodb)
 - [Programming](#programming)
 - [Self Hosting](#self-hosting)
+  - [Email Server Setups](#email-server-setups)
+  - [Mailscanner Server Setups](#mailscanner-server-setups)
 - [Serverless](#serverless)
 - [Sysadmin References](#sysadmin-references)
 - [VPN](#vpn)
@@ -324,12 +326,15 @@ Metrics:
 #### Email Server Setups
 - [Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin](https://www.exratione.com/2016/05/a-mailserver-on-ubuntu-16-04-postfix-dovecot-mysql/)
 - [Linuxsize: Postfix Dovecot MySQL Virtual Users Postfixadmin](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
+- [Howtoforge: Postfix, MySQL, Dovecto, Dspam](https://www.howtoforge.com/postfix_mysql_dovecot_dspam_clamav_postgrey_rbl_debian_etch)
+
+#### Mailscanner Server Setups
+- [Spamassassin with Debian 8](https://syslint.com/blog/tutorial/how-to-install-and-configure-spamassassin-with-postfix-in-debian-8/)
 
 #### Financial
 - [SelfHosted Firefly](https://github.com/firefly-iii/firefly-iii)
 
-#### Mailscanner Server Setups
-- [Spamassassin with Debian 8](https://syslint.com/blog/tutorial/how-to-install-and-configure-spamassassin-with-postfix-in-debian-8/)
+
 
 #### Self Hosting Frameworks:
 - [Sandstorm](https://sandstorm.io/)
