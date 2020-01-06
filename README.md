@@ -14,6 +14,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Great Blogs](#great-blogs)
 - [Knowledge Base](#knowledge-base)
 - [Kubernetes](#kubernetes)
+  - [Kubernetes Storage](#kubernetes-storage)
 - [Machine Learning](#machine-learning)
 - [Monitoring](#monitoring)
 - [MongoDB](#mongodb)
@@ -228,6 +229,10 @@ Metrics:
 - [Kubernetes Hands-On Lab with collabnix](http://collabnix.com/kubernetes-hands-on-lab-4-deploy-application-stack-using-helm-on-play-with-kubernetes-platform/)
 - [Create ReadWrite Persistent Volumes on Kubernetes](https://medium.com/asl19-developers/create-readwritemany-persistentvolumeclaims-on-your-kubernetes-cluster-3a8db51f98e3)
 - [Kubernetes Clusters with k3s and multipass](https://medium.com/@mattiaperi/kubernetes-cluster-with-k3s-and-multipass-7532361affa3)
+
+### Kubernetes Storage
+- [Kadalu](https://kadalu.io/docs/quick-start)
+- [Rancher: Longhorn Storage](https://rancher.com/docs/k3s/latest/en/storage/)
 
 
 ## Golang
