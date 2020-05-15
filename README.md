@@ -10,6 +10,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Elasticsearch](#elasticsearch)
 - [Environment Setups](#environment-setups)
 - [Epic Github Repos](#epic-github-repos)
+- [Golang](#golang)
 - [Grafana](#grafana)
 - [Great Blogs](#great-blogs)
 - [Knowledge Base](#knowledge-base)
@@ -238,6 +239,7 @@ Metrics:
 ## Golang
 
 - [Generate Fake Random Data with Golang](https://github.com/brianvoe/gofakeit)
+- [Ultimate Golang Study Guide](https://github.com/hoanhan101/ultimate-go)
 
 ## Great Blogs
 
