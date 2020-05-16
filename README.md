@@ -2,6 +2,7 @@
 
 My Awesome List of anything cool that my curious mind finds interesting
 
+- [Ansible](#ansible)
 - [Awesome Lists](#awesome-lists)
 - [CI/CD](#continious-integration)
 - [Data Science](#data-science)
@@ -27,6 +28,9 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Sysadmin References](#sysadmin-references)
 - [VPN](#vpn)
 - [Web Frameworks](#web-frameworks)
+
+## Ansible
+- [Kubernetes on LXC with Ansible](https://github.com/zimmertr/Bootstrap-Kubernetes-with-LXC)
 
 ## Awesome Lists
 - [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
