@@ -21,6 +21,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Monitoring](#monitoring)
 - [MongoDB](#mongodb)
 - [Programming](#programming)
+- [Queues](#queues)
 - [Self Hosting](#self-hosting)
   - [Email Server Setups](#email-server-setups)
   - [Mailscanner Server Setups](#mailscanner-server-setups)
