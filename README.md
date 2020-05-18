@@ -135,6 +135,10 @@ Metrics:
 
 ## Logging / Kibana / Beats
 
+### Libraries
+- [Loguru](https://github.com/Delgan/loguru) | [Flask Example with Loguru](https://gist.github.com/M0r13n/0b8c62c603fdbc98361062bd9ebe8153)
+
+### Frameworks
 - [shazChaudhry Swarm GELF Stack](https://github.com/shazChaudhry/docker-elastic)
 
 
