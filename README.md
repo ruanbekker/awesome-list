@@ -328,6 +328,12 @@ Metrics:
 - [Tutorial: Ruby On Rails](https://www.railstutorial.org/book/beginning)
 - [Tutorial: ROR on Docker](http://codingnudge.com/2017/03/17/tutorial-how-to-run-ruby-on-rails-on-docker-part-1/)
 
+## Queues
+
+- [Alpine SQS](https://github.com/roribio/alpine-sqs)
+- [Kombu: Messaging library for Python](https://github.com/celery/kombu)
+- [Python Job Queues with Redis](https://python-rq.org/)
+
 ## Sysadmin References:
 - [Sysadmin Command References](https://gist.github.com/ruanbekker/3118ed23c25451132becacd3b974db08)
 - [Linux Performance Observability Tools](https://medium.com/@chrishantha/linux-performance-observability-tools-19ae2328f87f)
