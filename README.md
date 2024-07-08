@@ -37,6 +37,7 @@ My Awesome List of anything cool that my curious mind finds interesting
 - [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Awesome Drone](https://github.com/drone/awesome-drone)
+- [Awesome Stacks (docker swarm)](https://github.com/ethibox/awesome-stacks/tree/master)
 
 ## Epic Github Repos
 - [mlabouardy](https://github.com/mlabouardy?tab=repositories)
